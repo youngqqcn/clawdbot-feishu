@@ -11,13 +11,13 @@ Feishu/Lark (飞书) channel plugin for [OpenClaw](https://github.com/openclaw/o
 ### Installation
 
 ```bash
-openclaw plugins install @m1heng-clawd/feishu
+openclaw plugins install @youngqqcn/openclaw-feishu
 ```
 
 Or install via npm:
 
 ```bash
-npm install @m1heng-clawd/feishu
+npm install @youngqqcn/openclaw-feishu
 ```
 
 ### Configuration
@@ -145,7 +145,7 @@ If `openclaw plugins install` fails, install manually:
 
 ```bash
 # 1. Download the package
-curl -O https://registry.npmjs.org/@m1heng-clawd/feishu/-/feishu-0.1.1.tgz
+curl -O https://registry.npmjs.org/@youngqqcn/openclaw-feishu/-/feishu-0.1.1.tgz
 
 # 2. Install from local file
 openclaw plugins install ./feishu-0.1.1.tgz
@@ -164,13 +164,13 @@ openclaw plugins install ./feishu-0.1.1.tgz
 ### 安装
 
 ```bash
-openclaw plugins install @m1heng-clawd/feishu
+openclaw plugins install @youngqqcn/openclaw-feishu
 ```
 
 或通过 npm 安装：
 
 ```bash
-npm install @m1heng-clawd/feishu
+npm install @youngqqcn/openclaw-feishu
 ```
 
 ### 配置
@@ -298,7 +298,7 @@ channels:
 
 ```bash
 # 1. 下载插件包
-curl -O https://registry.npmjs.org/@m1heng-clawd/feishu/-/feishu-0.1.1.tgz
+curl -O https://registry.npmjs.org/@youngqqcn/openclaw-feishu/-/feishu-0.1.1.tgz
 
 # 2. 从本地安装
 openclaw plugins install ./feishu-0.1.1.tgz
